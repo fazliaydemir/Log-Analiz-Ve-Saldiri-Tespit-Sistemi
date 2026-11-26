@@ -40,7 +40,8 @@ saldiriTespit/
 ```
 ---
 
-⚙️ Kurulum ve Çalıştırma
+##  ⚙️ Kurulum ve Çalıştırma
+
 1. Projeyi bilgisayarınıza klonlayın veya indirin.
 
 2. Projeyi Apache NetBeans veya tercih ettiğiniz bir Java IDE'sinde açın.
@@ -49,7 +50,8 @@ saldiriTespit/
 
 4. Konsol üzerinden sunulan menüyü kullanarak giriş yapabilir, hatalı denemeler yapabilir ve admin girişi ile logları inceleyebilirsiniz.
 
-💻 Kullanım Senaryoları
+##  💻 Kullanım Senaryoları
+
 Normal Kullanıcı Girişi: Tanımlı kullanıcılar (Fazli - IP: 1.1.1.1 veya Mehmet - IP: 2.2.2.2) ile sisteme giriş yapmayı deneyebilirsiniz.
 
 Admin Paneli: Şifre kısmına AhmetAdmin yazarak sistem loglarını listeleyebilir ve güvenlik analizini çalıştırabilirsiniz.
